@@ -1,2 +1,0 @@
-:first file text > first-file.txt
-echo :First file text
